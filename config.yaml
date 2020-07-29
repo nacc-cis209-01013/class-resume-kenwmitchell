@@ -1,6 +1,6 @@
 baseURL: 'http://example.org/'
 languageCode: en
-title: Example Resume
+title: Kenneth Mitchell Resume
 theme: hugo-devresume-theme
 params:
   author: CowboySmall
@@ -9,9 +9,9 @@ params:
   textPrimaryColor: '#292929'
   profile:
     enable: true
-    name: Simon Doe
+    name: Kenneth Mitchell
     tagline: Senior Software Engineer
-    avatar: avatar.png
+    avatar: avatar.jpg
   contact:
     enable: true
     location: New York
@@ -36,6 +36,7 @@ params:
           - details: PostgreSQL/MySQL
           - details: Object-oriented design
           - details: Design and implement database structures
+          - details: Lead and deliver complex software systems
           - details: Lead and deliver complex software systems
       - title: Professional
         items:
@@ -191,4 +192,4 @@ params:
         # url: //twitter.com/username
         # title: '@username'
   footer:
-    copyright: Simon Doe
+    copyright: Kenneth Mitchell 2020
