@@ -1,4 +1,5 @@
-baseURL: 'http://example.org/'
+# baseURL: 'http://nacc-cis209-01013.github.io/'
+relativeURLs: true
 languageCode: en
 title: Kenneth Mitchell Resume
 theme: hugo-devresume-theme
@@ -38,7 +39,7 @@ params:
           - details: Design and implement database structures
           - details: Lead and deliver complex software systems
           - details: Lead and deliver complex software systems
-      - title: Professional
+      - title: Fun
         items:
           - details: Effective communication
           - details: Team player
